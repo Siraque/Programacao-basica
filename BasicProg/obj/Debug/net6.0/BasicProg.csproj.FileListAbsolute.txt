@@ -1,0 +1,15 @@
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\bin\Debug\net6.0\BasicProg.exe
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\bin\Debug\net6.0\BasicProg.deps.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\bin\Debug\net6.0\BasicProg.runtimeconfig.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\bin\Debug\net6.0\BasicProg.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\bin\Debug\net6.0\BasicProg.pdb
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.csproj.AssemblyReference.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.AssemblyInfoInputs.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.AssemblyInfo.cs
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.csproj.CoreCompileInputs.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\refint\BasicProg.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.pdb
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\BasicProg.genruntimeconfig.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\BasicProg\obj\Debug\net6.0\ref\BasicProg.dll

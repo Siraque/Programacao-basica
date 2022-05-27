@@ -1,0 +1,3 @@
+﻿using BasicProg;
+
+GreetCountries.Countries();
