@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProg", "BasicProg.csproj", "{D48A31C0-7294-4EB7-9CC0-E56981BC59E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicProg", "BasicProg.csproj", "{D48A31C0-7294-4EB7-9CC0-E56981BC59E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunitCalculator", "..\xunitTest\xunitCalculator.csproj", "{EF4E33A2-FBF1-4DFB-B4EE-10129B6A8923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunitCalculator.Test", "..\xunitCalculator.Test\xunitCalculator.Test.csproj", "{A8ABBDB9-3713-45A4-95BD-D633354BA233}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D48A31C0-7294-4EB7-9CC0-E56981BC59E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D48A31C0-7294-4EB7-9CC0-E56981BC59E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48A31C0-7294-4EB7-9CC0-E56981BC59E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4E33A2-FBF1-4DFB-B4EE-10129B6A8923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4E33A2-FBF1-4DFB-B4EE-10129B6A8923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4E33A2-FBF1-4DFB-B4EE-10129B6A8923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4E33A2-FBF1-4DFB-B4EE-10129B6A8923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8ABBDB9-3713-45A4-95BD-D633354BA233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8ABBDB9-3713-45A4-95BD-D633354BA233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8ABBDB9-3713-45A4-95BD-D633354BA233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ABBDB9-3713-45A4-95BD-D633354BA233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

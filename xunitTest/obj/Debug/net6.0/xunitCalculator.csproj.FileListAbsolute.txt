@@ -1,0 +1,12 @@
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.csproj.AssemblyReference.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.AssemblyInfoInputs.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.AssemblyInfo.cs
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\xunitCalculator.deps.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\xunitCalculator.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\xunitCalculator.pdb
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\refint\xunitCalculator.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.pdb
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\ref\xunitCalculator.dll
