@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "xunitCalculator/1.0.0": {
-        "dependencies": {
-          "BasicProg": "1.0.0"
-        },
-        "runtime": {
-          "xunitCalculator.dll": {}
-        }
-      },
       "BasicProg/1.0.0": {
         "runtime": {
           "BasicProg.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "xunitCalculator/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "BasicProg/1.0.0": {
       "type": "project",
       "serviceable": false,

@@ -10,3 +10,9 @@ C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitC
 C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\refint\xunitCalculator.dll
 C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.pdb
 C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\ref\xunitCalculator.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\BasicProg.deps.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\BasicProg.runtimeconfig.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\BasicProg.exe
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\BasicProg.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\bin\Debug\net6.0\BasicProg.pdb
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitTest\obj\Debug\net6.0\xunitCalculator.csproj.CopyComplete

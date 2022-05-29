@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace BasicProg
 {
-    public class Fail : Exception
+    public class FailException : Exception
     {
-        public static void FailException(string message)
+        public FailException() : base()
         {
             Console.WriteLine("Error!");
         }
 
-        internal static object FailException()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

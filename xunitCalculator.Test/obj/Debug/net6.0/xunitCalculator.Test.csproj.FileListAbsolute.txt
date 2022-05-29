@@ -100,3 +100,8 @@ C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\obj\Debug\ne
 C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\obj\Debug\net6.0\xunitCalculator.Test.pdb
 C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\obj\Debug\net6.0\xunitCalculator.Test.genruntimeconfig.cache
 C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\obj\Debug\net6.0\ref\xunitCalculator.Test.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\bin\Debug\net6.0\BasicProg.deps.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\bin\Debug\net6.0\BasicProg.runtimeconfig.json
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\bin\Debug\net6.0\BasicProg.exe
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\bin\Debug\net6.0\BasicProg.dll
+C:\Users\msira\Desktop\VersãoFinal\ProgBasic1\xunitCalculator.Test\bin\Debug\net6.0\BasicProg.pdb

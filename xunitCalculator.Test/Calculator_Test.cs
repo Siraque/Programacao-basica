@@ -87,7 +87,5 @@ namespace xunitCalculator.Test
             //Assert
             Assert.Equal(expectedErrorMessage, ex.Message);
         }
-
-
     }
 }
